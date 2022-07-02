@@ -25,4 +25,5 @@ else:
         print("O seu chute foi menor do que o número secreto!")
     rodada = rodada + 1
 
+print("Obrigado!!!")
 print("Fim do jogo")
